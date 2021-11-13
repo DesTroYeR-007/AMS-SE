@@ -22,6 +22,7 @@ print("No. of count is ", count)
 
 
 
+
 def pair(n2):
     r0=0
     r1=1
@@ -33,4 +34,4 @@ def pair(n2):
     print("No. of count is ",count)
 num2 = int(input("Enter no. of months: "))
 pair(num2)
-
+print("The result is shown")
